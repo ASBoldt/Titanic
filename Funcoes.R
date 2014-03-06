@@ -4,7 +4,7 @@ table() # para sumarizar
 prop.table() # para obter as proporcoes
 names(df)[names(df)=='old_name']<-'new_name' # Para corrigir o nome de uma coluna
 
-##
+####
 
 # No git
 # No arquivo .gitignore coloquei: data, logs e cache
