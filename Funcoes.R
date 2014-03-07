@@ -3,6 +3,13 @@
 table() # para sumarizar
 prop.table() # para obter as proporcoes
 names(df)[names(df)=='old_name']<-'new_name' # Para corrigir o nome de uma coluna
+strsplit() # para separar elementos de uma string
+sub() # para substituir um determinado padrao
+%in% # funcao match (correspondencia) para combinar
+paste() # concatenar vetores e converte-los em caracteres.
+is.na() # Para dados faltantes
+which() # Para retornar indices
+#
 
 ####
 
